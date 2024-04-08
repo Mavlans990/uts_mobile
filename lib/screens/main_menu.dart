@@ -26,7 +26,7 @@ class _MainMenuState extends State<MainMenu> {
           children: [
             const Center(
               child: Text(
-                "Quizz App",
+                "Kelompok 10",
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 48,
